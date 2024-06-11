@@ -106,3 +106,11 @@
 ### 리젝 예시
 ![image.png](https://d3mjjrvt1qsw2m.cloudfront.net/New%20tab_20240611T090634717Z_image.png)
 코멘트에 리젝사유를 적고 Status를 리젝으로 변경.
+
+### 이슈 종료 예시
+![image.png](https://d3mjjrvt1qsw2m.cloudfront.net/New%20tab_20240611T090832174Z_image.png)
+커밋을 하기전 커밋 메세지에 #1 과 같이 해당 이슈번호를 등록해주면
+![image.png](https://d3mjjrvt1qsw2m.cloudfront.net/New%20tab_20240611T090852406Z_image.png)
+아래와 같이 커밋 내역이 남아 무엇을 수정하였는지 추적할 수 있습니다.
+![image.png](https://d3mjjrvt1qsw2m.cloudfront.net/New%20tab_20240611T090920127Z_image.png)
+이후 작업자는 다시 Status를 리뷰로 옮기고, 리뷰자를 통해 상태가 종료가 될 때 까지 이 작업을 반복합니다.
